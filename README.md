@@ -8,11 +8,11 @@ This project implements the full MySQL database backend for a collaborative onli
 ## 📂 File Structure
 ```
 online-whiteboard/
-├── schema.sql                 -- All tables, keys, constraints
+├── README.md                 -- This documentation 
 ├── procedures_triggers.sql   -- Triggers, stored procedures, and views
 ├── sample_data.sql           -- Sample users, boards, drawings, and notes
 ├── sample_queries.sql        -- Demonstration queries
-└── README.md                 -- This documentation
+└── schema.sql                 -- All tables, keys, constraints
 ```
 
 ---
