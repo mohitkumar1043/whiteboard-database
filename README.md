@@ -101,8 +101,3 @@ SOURCE sample_queries.sql;
 - Analytics View (top active users, boards)
 
 ---
-
-## 📧 Contact & Credits
-Created as part of an academic assignment. AI tools like ChatGPT were used for guidance and generation, but the final design reflects the author’s understanding.
-
-Happy Coding! 🎨
